@@ -1,5 +1,5 @@
-import * as S from './style';
-import logoImg from '../../assets/logo.svg';
+import * as S from './styles';
+import logoImg from 'assets/logo.svg';
 
 export function Header() {
   return (
